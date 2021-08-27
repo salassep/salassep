@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+**My name is Salas Sepkardianto and I am human.**
 <!--
 **salassep/salassep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
